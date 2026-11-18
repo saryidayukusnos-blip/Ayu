@@ -1,0 +1,6 @@
+{
+  "name": "Global Institute of Studies (GIS) — Kemahiran Elektrik 18+",
+  "description": "Halaman rasmi kemasukan Program Kemahiran Elektrik (18+) di Global Institute of Studies (GIS). 80% latihan amali bengkel dengan pilihan pembiayaan PTPTN, PTPK, KWSP, Ansuran 0% dan Tunai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
